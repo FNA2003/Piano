@@ -88,11 +88,11 @@ Again, if it is not clear enought, the file where you should paste the code of t
 	# [...]
 	# The number of bellow its the code of a key in pygame   
 	1073741887: 
-        [mixer.Sound(MUSIC_ROUTE+"F2.mp3"), "F2"]
-    ,
-    1073741888: 
-	    [mixer.Sound(MUSIC_ROUTE+"Gb2.mp3"), "Gb2"] # The second element its the note name
-    ,
+        	[mixer.Sound(MUSIC_ROUTE+"F2.mp3"), "F2"]
+    	,
+    	1073741888: 
+		[mixer.Sound(MUSIC_ROUTE+"Gb2.mp3"), "Gb2"] # The second element its the note name
+    	,
 	# [...]
 }
 ```
